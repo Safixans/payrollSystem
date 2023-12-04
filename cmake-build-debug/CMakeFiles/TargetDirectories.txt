@@ -1,0 +1,3 @@
+/Users/safixonabdusattorov/CLionProjects/payrollSystem/cmake-build-debug/CMakeFiles/payrollSystem.dir
+/Users/safixonabdusattorov/CLionProjects/payrollSystem/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/safixonabdusattorov/CLionProjects/payrollSystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
